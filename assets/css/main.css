@@ -58,7 +58,7 @@ html, body {
 }
 
 .seccion-inicio{
-    background: url('assets/img/portada-inicio.webp');
+    background: url('../img/portada-inicio.webp');
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -197,7 +197,7 @@ html, body {
 }
 
 .seccion-contacto{
-    background-image: url('assets/img/contacto.webp');
+    background-image: url('../img/contacto.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
