@@ -4,16 +4,16 @@ html, body {
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('assets/fonts/Montserrat-VariableFontwght.woff2') format('woff2'),
-        url('assets/fonts/Montserrat-VariableFontwght.woff') format('woff');
+    src: url('../fonts/Montserrat-VariableFontwght.woff2') format('woff2'),
+        url('../fonts/Montserrat-VariableFontwght.woff') format('woff');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Lato-Regular';
-    src: url('assets/fonts/Lato-Regular.woff2') format('woff2'),
-        url('assets/fonts/Lato-Regular.woff') format('woff');
+    src: url('../fonts/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
